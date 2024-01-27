@@ -1,8 +1,9 @@
 
 
 To run this code following the steps:
-        step 1 =>  run $bash build.bash
-        step 2 => run  $./a.out
+        step 1 :  run $bash build.bash
+        
+	step 2 : run  $./a.out
 
 
 
