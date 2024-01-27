@@ -5,6 +5,9 @@ To run this code following the steps:
     
 step 2 : run  $./a.out
 
+N:B: A video sample of the game is attached in this main branch
+
+
 This car race is a 2d type of which the player has to shoot-off approaching enemy's cars and also dodge approaching poinous green leaves. The game ends if any of the following occurs: i) Any of the enemy cars successfully by-pass the player's car ii) Any of the approaching greeen leaves touches the player's car. iii) The shoots utilized all their bullets ( total number of bullets available = 50)
 
 The game can be re-startred by pressing any key.
