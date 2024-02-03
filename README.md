@@ -7,6 +7,7 @@ step 2 : run  $./a.out
 
 N:B: A video sample of the game is found at https://github.com/Mgbeojikwe/car_race_shoooter-C-/blob/main/simplescreenrecorder-2024-01-26_00.24.49.mp4 and click on "view raw" to download the video
 
+N:B: You need to install Raylib GUI for game to fucntion properly.
 
 This car race is a 2d type of which the player has to shoot-off approaching enemy's cars and also dodge approaching poinous green leaves. The game ends if any of the following occurs: i) Any of the enemy cars successfully by-pass the player's car ii) Any of the approaching greeen leaves touches the player's car. iii) The shoots utilized all their bullets ( total number of bullets available = 50)
 
